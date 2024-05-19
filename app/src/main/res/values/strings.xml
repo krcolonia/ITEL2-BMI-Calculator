@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AppDev BMI Calculator</string>
+
+    <string name="studNameSec">3BSIT-2 | COLONIA, Kurt Robin P.</string>
+    <string name="title">BMI Calculator</string>
+
+    <string name="namePlaceholder">FNAME MI. LNAME</string>
+    <string name="fNameHint">First Name</string>
+    <string name="midInitHint">Middle Initial</string>
+    <string name="lNameHint">Last Name</string>
+
+    <string name="gendPlaceholder">Mr. / Ms.</string>
+    <string name="gendMale">Male</string>
+    <string name="gendFemale">Female</string>
+
+    <string name="heightHint">Height in CM</string>
+    <string name="weightHint">Weight in KG</string>
+
+    <string name="computeBtnText">Compute your BMI</string>
+
+    <string name="bmiResult">Your BMI Result:</string>
+    <string name="bmiCalcText">00.00</string>
+    <string name="bmiClassText">BMI CLASSIFICATION</string>
+
+    <string name="underweight">Less than 18.5</string>
+    <string name="healthyWeight">Greater than or equal to 18.5 and less than 25</string>
+    <string name="overweight">Greater than or equal to 25 and less than 30</string>
+    <string name="obese">Greater than or equal to 30</string>
+
+</resources>

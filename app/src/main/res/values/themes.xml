@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AppDevBMICalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/kurut0_color2</item>
+        <item name="colorPrimaryVariant">@color/kurut0_color2</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/kurut0_color2</item>
+        <item name="colorSecondaryVariant">@color/kurut0_color2</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+
+    <style name="Theme.AppDevBMICalculator" parent="Base.Theme.AppDevBMICalculator" />
+</resources>

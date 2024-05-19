@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="bmiGreen">#FFA5D46A</color>
+    <color name="bmiYellow">#FFFFFF80</color>
+    <color name="bmiOrange">#FFFFC080</color>
+    <color name="bmiRed">#FFFFA080</color>
+
+    <color name="kurut0_color1">#8EA7E9</color>
+    <color name="kurut0_color2">#0B2447</color>
+</resources>
